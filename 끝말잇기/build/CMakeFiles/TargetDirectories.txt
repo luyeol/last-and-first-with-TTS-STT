@@ -1,0 +1,6 @@
+/home/pi/project/끝말잇기240520/build/CMakeFiles/edit_cache.dir
+/home/pi/project/끝말잇기240520/build/CMakeFiles/rebuild_cache.dir
+/home/pi/project/끝말잇기240520/build/CMakeFiles/list_install_components.dir
+/home/pi/project/끝말잇기240520/build/CMakeFiles/install.dir
+/home/pi/project/끝말잇기240520/build/CMakeFiles/install/local.dir
+/home/pi/project/끝말잇기240520/build/CMakeFiles/install/strip.dir
